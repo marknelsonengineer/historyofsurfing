@@ -19,60 +19,61 @@ body {
 
 .Surfer {
   font-weight: bolder;
+  font-size: 2em;
   width: 200px;
   position: relative;
   top: 50%;
   transform: translateY(-50%);
   height: 400px;
+
 }
 
 #Profiles {
-
+  align-content: center;
 }
 
-
 #One {
+  margin-left: 2%;
+  margin-right: 2%;
   float: left;
-  width: 300px;
+  width: 21%;
   height: 400px;
   text-align: center;
   background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
+  background-repeat: no-repeat;
 }
 
 #Two {
+  margin-left: 2%;
+  margin-right: 2%;
   float: left;
-  width: 300px;
+  width: 21%;
   height: 400px;
   text-align: center;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Kelly.jpg");
+  background-repeat: no-repeat;
 }
 
 #Three {
+  margin-left: 2%;
+  margin-right: 2%;
   float: left;
-  width: 200px;
+  width: 21%;
   height: 400px;
   text-align: center;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
+  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/doc-paskowitz-brewer.jpg");
+  background-repeat: no-repeat;
 }
 
 #Four {
+  margin-left: 2%;
+  margin-right: 2%;
   float: left;
-  width: 200px;
+  width: 21%;
   height: 400px;
   text-align: center;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
-}
-
-
-#DukeXX {
-  width: 200px;
-  height: 200px;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
-  text-align: center;
-  background-size: 200px;
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Spicoli.jpg");
   background-repeat: no-repeat;
-  line-height: 50px;
-  color: black;
-  font-weight: bolder;
 }
+
 
