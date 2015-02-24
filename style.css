@@ -1,0 +1,65 @@
+h1 {
+  text-align: center;
+  font-family: 'Lustria';
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Lustria';
+}
+
+body {
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/4/4e/Mavericks_Surf_Contest_2010b.jpg");
+  color: red;
+  font-family: 'Garamond';
+}
+
+#Duke {
+  width: 200px;
+  height: 200px;
+  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
+  text-align: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  line-height: 50px;
+  color: black;
+  font-weight: bolder;
+}
+
+#Kelly {
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Kelly.jpg");
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  line-height: 50px;
+  color: black;
+  font-weight: bolder;
+
+}
+
+#Doc {
+  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/doc-paskowitz-brewer.jpg");
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  line-height: 50px;
+  color: black;
+  font-weight: bolder;
+
+}
+
+#Jeff {
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Spicoli.jpg");
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  background-size: 200px;
+  background-repeat: no-repeat;
+  line-height: 50px;
+  color: black;
+  font-weight: bolder;
+}
