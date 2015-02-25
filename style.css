@@ -17,63 +17,41 @@ body {
   font-family: "EB Garamond";
 }
 
-.Surfer {
-  font-weight: bolder;
+.NameOfSurfer {
   font-size: 2em;
-  width: 200px;
+  font-weight: 900;
+  font-family: 'Clicker Script';
+  color: brown;
+  text-align: center;
   position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-  height: 400px;
-
-}
-
-#Profiles {
-  align-content: center;
-}
-
-#One {
-  margin-left: 2%;
-  margin-right: 2%;
   float: left;
-  width: 21%;
-  height: 400px;
-  text-align: center;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
-  background-repeat: no-repeat;
+  width: 22%;
+  margin-left: 2%;
+  margin-right: 1%;
 }
 
-#Two {
-  margin-left: 2%;
-  margin-right: 2%;
+.PictureOfSurfer {
   float: left;
-  width: 21%;
-  height: 400px;
-  text-align: center;
-  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Kelly.jpg");
-  background-repeat: no-repeat;
+  width: 22%;
+  margin-left: 2%;
+  margin-right: 1%
 }
 
-#Three {
-  margin-left: 2%;
-  margin-right: 2%;
-  float: left;
-  width: 21%;
-  height: 400px;
-  text-align: center;
-  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/doc-paskowitz-brewer.jpg");
-  background-repeat: no-repeat;
+#Duke {
+  top: 90px;
 }
 
-#Four {
-  margin-left: 2%;
-  margin-right: 2%;
-  float: left;
-  width: 21%;
-  height: 400px;
-  text-align: center;
-  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Spicoli.jpg");
-  background-repeat: no-repeat;
+#Kelly {
+  top: 50px;
 }
+
+#Doc {
+  top: 50px;
+}
+
+#Dude {
+  top: 220px;
+}
+
 
 
